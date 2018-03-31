@@ -2,7 +2,7 @@
 
 Nombre: Ana Sofía Arango González
 
-Estos son los pasos para ingresar y comenzar a usar Github
+Estos son los pasos para ingresar y comenzar a usar Github.
 
 ![paso1](https://user-images.githubusercontent.com/37346028/38166243-38549556-34e6-11e8-845d-2c4e3d06cbae.png)
 
@@ -27,4 +27,18 @@ Estos son los pasos para ingresar y comenzar a usar Github
   * [Plataforma de Dropbox](https://www.dropbox.com/business/landing-t61fl?_tk=sem_b_goog&_camp=sem-b-goog-latin-america-esp&_kw=dropbox|p&_ad=245914992468|1t1|c&gclid=Cj0KCQjw4_zVBRDVARIsAFNI9eBrbRqgVlB794pe_OjdIWP9Q5uwa0YHhyXlfowHO6iXlE_Li61x37oaAivxEALw_wcB)
   
   
-2.
+2.Proceso al descargar productos oficiales de Microsoft.
+
+![paso1dm](https://user-images.githubusercontent.com/37346028/38167390-f388f246-34f9-11e8-9fd8-1643d2166e9a.png)
+
+![paso2dm](https://user-images.githubusercontent.com/37346028/38167406-1bf3f898-34fa-11e8-8af8-60580dbd1c51.png)
+
+![paso3dm](https://user-images.githubusercontent.com/37346028/38167409-2e9515cc-34fa-11e8-9b00-55e95682a496.png)
+
+![paso4dm](https://user-images.githubusercontent.com/37346028/38167413-47dd6bb0-34fa-11e8-9eed-53f662ab27a5.png)
+
+![paso5dm](https://user-images.githubusercontent.com/37346028/38167421-5be5a00a-34fa-11e8-9ee6-500faca2093a.png)
+
+![paso6dm](https://user-images.githubusercontent.com/37346028/38167434-6ed9da78-34fa-11e8-8363-89a7d616a446.png)
+
+![paso7dm](https://user-images.githubusercontent.com/37346028/38167439-825f5dc0-34fa-11e8-8452-81107b22e209.png)
