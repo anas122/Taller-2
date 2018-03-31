@@ -42,3 +42,22 @@ Estos son los pasos para ingresar y comenzar a usar Github.
 ![paso6dm](https://user-images.githubusercontent.com/37346028/38167434-6ed9da78-34fa-11e8-8363-89a7d616a446.png)
 
 ![paso7dm](https://user-images.githubusercontent.com/37346028/38167439-825f5dc0-34fa-11e8-8452-81107b22e209.png)
+
+
+3.Aquí se solicito el programa educativo de Github.
+
+![paso1ge](https://user-images.githubusercontent.com/37346028/38167585-fd4e589a-34fc-11e8-9414-f33839e5563c.png)
+
+![paso2ge](https://user-images.githubusercontent.com/37346028/38167632-eeffd128-34fd-11e8-84aa-038030ac2a65.png)
+
+![paso3ge](https://user-images.githubusercontent.com/37346028/38167643-0655ea42-34fe-11e8-9321-bc409fa103be.png)
+
+![paso4ge](https://user-images.githubusercontent.com/37346028/38167650-2975ba3e-34fe-11e8-94ce-ba2239d7bb56.png)
+
+![paso5ge](https://user-images.githubusercontent.com/37346028/38167653-3e85fb28-34fe-11e8-960f-9be682e2c971.png)
+
+![paso6ge](https://user-images.githubusercontent.com/37346028/38167659-58ec23ca-34fe-11e8-8056-2de5ae95bf5f.png)
+
+![paso7ge](https://user-images.githubusercontent.com/37346028/38167663-79794e92-34fe-11e8-8ac1-7f6723e5616a.png)
+
+![paso8ge](https://user-images.githubusercontent.com/37346028/38167672-a9396784-34fe-11e8-838e-3dfddef24cbc.png)
