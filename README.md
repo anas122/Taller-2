@@ -44,7 +44,7 @@ Estos son los pasos para ingresar y comenzar a usar Github.
 ![paso7dm](https://user-images.githubusercontent.com/37346028/38167439-825f5dc0-34fa-11e8-8452-81107b22e209.png)
 
 
-3.Aquí se solicito el programa educativo de Github.
+3.Aquí se solicitó el programa educativo de Github.
 
 ![paso1ge](https://user-images.githubusercontent.com/37346028/38167585-fd4e589a-34fc-11e8-9414-f33839e5563c.png)
 
@@ -61,3 +61,7 @@ Estos son los pasos para ingresar y comenzar a usar Github.
 ![paso7ge](https://user-images.githubusercontent.com/37346028/38167663-79794e92-34fe-11e8-8ac1-7f6723e5616a.png)
 
 ![paso8ge](https://user-images.githubusercontent.com/37346028/38167672-a9396784-34fe-11e8-838e-3dfddef24cbc.png)
+
+* Algunos beneficios que tiene este programa es que facilita el uso de muy buenas herramientas de desarrollo para el aprendizaje, sin ningún costo, que sin este servicio tendrían un alto valor. También permite realizar proyectos de forma colaborativa, navegar en la nube sin impedimientos, tener y desarrollar nuestros propios códigos, explotar la imaginación.
+Además, dependiendo de la persona y el uso que se le de trae diferentes ventajas, por ejemplo, si es usado por profesores para enseñar, puede implementarlo en el salón de clases para compartir el código con todos los estudiantes rápidamente, ingresar a una comunidad para discutir sobre diferentes temas con personas en cualquier parte del mundo, obtener nuevas herramentas y materiales para dar clases.
+Y así van cambiando los beneficios que brinda este servicio tan eficiente, y que puede ser usado en todo momento, disponible para cualquier persona.
