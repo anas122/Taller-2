@@ -21,3 +21,10 @@ Estos son los pasos para ingresar y comenzar a usar Github
   * [Software disponible para cualquier estudiante](https://education.github.com/pack)
   * [Plataforma de Microsoft](https://www.microsoft.com/es-co/store/b/office?activetab=tab%3Abusiness&invsrc=search&ocid=AID620866_SEM_WXpipQAAAUkwL1Qm%3A20180331184640%3As&s_kwcid=AL!4249!3!243749033966!b!!g!!%2Bsoftware+%2Bpara+%2Bestudiantes&ef_id=WXpipQAAAUkwL1Qm%3A20180331184640%3As)
   * [Plataforma de Amazon](https://www.amazon.com/gp/help/customer/display.html/ref=aw/140-7683568-7461255?ie=UTF8&nodeId=201560810)
+  * [Plataforma de IBM](https://developer.ibm.com/academic/)
+  * [Plataforma de Google Cloud](https://cloud.google.com/?hl=es&utm_source=google&utm_medium=cpc&utm_campaign=latam-LATAMsp-all-es-dr-bkws-all-all-trial-e-latam-1003997-LUAC0000376&utm_content=text-ad-none-any-DEV_c-CRE_168171915838-ADGP_BKWS%20%7C%20EXA%20~%20Google%20Cloud-KWID_43700030076731494-kwd-6458750523-userloc_1003654&utm_term=KW_google%20cloud-ST_google%20cloud&gclid=CKGViJyil9oCFcNwgQodszMNGQ&gclsrc=ds&dclid=CL36j5yil9oCFWnJ4wcdZrQNeg)
+  * [Plataforma de Apple](https://www.apple.com/es/shop/browse/home/education_routing/find_your_institution/access)
+  * [Plataforma de Dropbox](https://www.dropbox.com/business/landing-t61fl?_tk=sem_b_goog&_camp=sem-b-goog-latin-america-esp&_kw=dropbox|p&_ad=245914992468|1t1|c&gclid=Cj0KCQjw4_zVBRDVARIsAFNI9eBrbRqgVlB794pe_OjdIWP9Q5uwa0YHhyXlfowHO6iXlE_Li61x37oaAivxEALw_wcB)
+  
+  
+2.
