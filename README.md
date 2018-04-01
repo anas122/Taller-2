@@ -122,3 +122,17 @@ Estos son los pasos para ingresar y comenzar a usar Github.
 ![paso2nrp](https://user-images.githubusercontent.com/37346028/38176126-fd04ea4a-35ae-11e8-948f-685f4dd30047.png)
 
 ![paso3nrp](https://user-images.githubusercontent.com/37346028/38176131-0d92c99a-35af-11e8-8f9b-4f518af9cb6f.png)
+
+* Este fue el proceso al crear un nuevo repositorio para gestionar un proyecto de software de cualquier materia:
+
+![paso1nrps](https://user-images.githubusercontent.com/37346028/38176330-598f680a-35b2-11e8-9790-75d8df532225.png)
+
+![paso2nrps](https://user-images.githubusercontent.com/37346028/38176332-6a09b7d0-35b2-11e8-8c98-d018cc145527.png)
+
+![paso3nrps](https://user-images.githubusercontent.com/37346028/38176339-8160d4e0-35b2-11e8-8136-432607df6a50.png)
+
+* Este fue el proceso al instalar el cliente gráfico de github para Linux:
+
+![paso1dg](https://user-images.githubusercontent.com/37346028/38176367-1b92e27e-35b3-11e8-99f8-728aae90853d.png)
+
+![paso2dg](https://user-images.githubusercontent.com/37346028/38176379-329b7b16-35b3-11e8-9009-7a6b9458cf7a.png)
