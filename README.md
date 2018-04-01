@@ -96,3 +96,21 @@ Estos son los pasos para ingresar y comenzar a usar Github.
       Es utilizado para enviar los cambios hechos al repositorio remoto, aplicando este comando: git push origin [branch]. Branch es el nombre de la rama a la que se dirigen los cambios.
       
    **f.** git pull   
+
+      El comando se ejecuta en el directorio para bajar y fusionar los cambios del repositorio remoto, actualizando así el repositorio local.
+      
+   **g.** git status
+   
+      Se usa para mostrar la lista de los archivos que se han modificado y los que serán añadidos.
+      
+   **h.** git branch
+   
+      Puede utilizarse para ver en que rama se está trabajando, con el comando git branch, para crear una rama nueva: git branch [name], o para borrar una rama: git branch -d <branch-name>.
+      
+   **i.** git checkout
+   
+      Este comando se usa para cambiar de una rama a otra, agregando el nombre de la rama a la que se quiere cambiar al final del comando: git checkout [branch]. Y para bajar o descargar el contenido de una rama se ejecuta el siguiente comando: git checkout -b nombre_branch.
+
+   * [Referencias](https://github.com/susannalles/MinimalEditions/wiki/Lista-Comandos-Git)
+   * [Referencias](https://www.hostinger.es/tutoriales/comandos-de-git)
+   * [Referencias](http://rogerdudler.github.io/git-guide/index.es.html)
