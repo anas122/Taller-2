@@ -173,3 +173,29 @@ Estos son los pasos para ingresar y comenzar a usar Github.
 ![paso3j](https://user-images.githubusercontent.com/37346028/38177319-00b66630-35c5-11e8-939d-05b2cc46a89a.png)
 
 ![paso4j](https://user-images.githubusercontent.com/37346028/38177330-2115fc1a-35c5-11e8-87de-843c3f9f8af1.png)
+
+![paso5j](https://user-images.githubusercontent.com/37346028/38177332-4f40b382-35c5-11e8-94eb-70a47c9e76b8.png)
+
+![paso6j](https://user-images.githubusercontent.com/37346028/38177335-5e8e70d6-35c5-11e8-8acd-5ac0028c91d6.png)
+
+![paso7j](https://user-images.githubusercontent.com/37346028/38177340-7032f6fe-35c5-11e8-81ca-2f3082816486.png)
+
+![paso8j](https://user-images.githubusercontent.com/37346028/38177357-aad34796-35c5-11e8-96a2-d99f59eb213d.png)
+
+![paso9j](https://user-images.githubusercontent.com/37346028/38177359-b99f01fc-35c5-11e8-9fb5-941e6bd1664c.png)
+
+![paso10j](https://user-images.githubusercontent.com/37346028/38177360-ce47887c-35c5-11e8-8a1c-e374a9490a00.png)
+
+![paso11j](https://user-images.githubusercontent.com/37346028/38177361-e023963a-35c5-11e8-827b-7e316431f9f8.png)
+
+![paso12j](https://user-images.githubusercontent.com/37346028/38177376-f1f77160-35c5-11e8-9274-6892321bf8e0.png)
+
+![paso13j](https://user-images.githubusercontent.com/37346028/38177378-00e429d4-35c6-11e8-9cc6-3f0b518a9a0c.png)
+
+![paso14j](https://user-images.githubusercontent.com/37346028/38177383-0dc91d6c-35c6-11e8-83c3-c4a735011a86.png)
+
+Estos son los productos que ofrece Jet Brains, los últimos son especialmente para estudiantes:
+
+![pj1](https://user-images.githubusercontent.com/37346028/38177399-75d3cda8-35c6-11e8-9051-3d1579efbbcf.png)
+
+![pj2](https://user-images.githubusercontent.com/37346028/38177403-8a7adc38-35c6-11e8-8a35-f46358c83019.png)
