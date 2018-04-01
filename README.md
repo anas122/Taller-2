@@ -162,3 +162,14 @@ Estos son los pasos para ingresar y comenzar a usar Github.
 ![paso11dcg](https://user-images.githubusercontent.com/37346028/38176969-501cff10-35be-11e8-8aa5-45d806201a4e.png)
 
 ![paso12dcg](https://user-images.githubusercontent.com/37346028/38176974-668bd028-35be-11e8-8f53-1eedf9df1ff3.png)
+
+
+4. Este fue el proceso al crear una cuenta en Jet Brains, descargar 2 de los editores más importantes para el desarrollo de software y obtener una licencia por 1 año gratuita:
+
+![paso1j](https://user-images.githubusercontent.com/37346028/38177302-d1e0dd9a-35c4-11e8-9830-3e811794254b.png)
+
+![paso2j](https://user-images.githubusercontent.com/37346028/38177311-e5a125a6-35c4-11e8-9e9d-72d264970bd5.png)
+
+![paso3j](https://user-images.githubusercontent.com/37346028/38177319-00b66630-35c5-11e8-939d-05b2cc46a89a.png)
+
+![paso4j](https://user-images.githubusercontent.com/37346028/38177330-2115fc1a-35c5-11e8-87de-843c3f9f8af1.png)
