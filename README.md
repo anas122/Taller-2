@@ -194,8 +194,10 @@ Estos son los pasos para ingresar y comenzar a usar Github.
 
 ![paso14j](https://user-images.githubusercontent.com/37346028/38177383-0dc91d6c-35c6-11e8-83c3-c4a735011a86.png)
 
-Estos son los productos que ofrece Jet Brains, los últimos son especialmente para estudiantes:
+Estos son algunos productos que ofrece Jet Brains, los últimos son especialmente para estudiantes:
 
 ![pj1](https://user-images.githubusercontent.com/37346028/38177399-75d3cda8-35c6-11e8-9051-3d1579efbbcf.png)
 
 ![pj2](https://user-images.githubusercontent.com/37346028/38177403-8a7adc38-35c6-11e8-8a35-f46358c83019.png)
+
+   * [Referencias](https://www.jetbrains.com/)
