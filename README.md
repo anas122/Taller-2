@@ -200,10 +200,33 @@ Estos son algunos productos que ofrece Jet Brains, los últimos son especialment
 
 ![pj2](https://user-images.githubusercontent.com/37346028/38177403-8a7adc38-35c6-11e8-8a35-f46358c83019.png)
 
-    * [Referencias](https://www.jetbrains.com/)
+   * [Referencias](https://www.jetbrains.com/)
 
 
 5. No presento disponibilidad de tarjeta de crédito, por lo tanto, no pude realizar el ejercicio.
 
 
 6. No presento disponibilidad de tarjeta de crédito, por lo tanto, no pude realizar el ejercicio.
+
+
+7. Este fue el proceso al crear una cuenta, con el email institucional, en IBM University y en IBM Bluemix o IBM Cloud:
+
+![paso1ci](https://user-images.githubusercontent.com/37346028/38177891-4f15a072-35cd-11e8-81f9-756bd4322b93.png)
+
+![paso2ci](https://user-images.githubusercontent.com/37346028/38177898-63967288-35cd-11e8-9acc-c887ea275214.png)
+
+![paso3ci](https://user-images.githubusercontent.com/37346028/38177902-796612f8-35cd-11e8-874d-bd53f16d1858.png)
+
+![paso4ci](https://user-images.githubusercontent.com/37346028/38177909-8d2f9d36-35cd-11e8-826f-5d915cbe4a2d.png)
+
+![paso5ci](https://user-images.githubusercontent.com/37346028/38177927-c0c1cbce-35cd-11e8-88b6-ff89762986b9.png)
+
+![paso6ci](https://user-images.githubusercontent.com/37346028/38177929-d33b0810-35cd-11e8-8b93-470463342f8b.png)
+
+![paso7ci](https://user-images.githubusercontent.com/37346028/38177937-e4b91e6a-35cd-11e8-9a2c-ab4eab299e5d.png)
+
+![paso8ci](https://user-images.githubusercontent.com/37346028/38177939-f466c4e8-35cd-11e8-8fa7-5bde58d2eb63.png)
+
+![paso9ci](https://user-images.githubusercontent.com/37346028/38177945-0541617e-35ce-11e8-8bbb-9ea72e487e2d.png)
+
+![paso10ci](https://user-images.githubusercontent.com/37346028/38177949-1367048e-35ce-11e8-8ebf-7bbcc8c26e66.png)
