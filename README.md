@@ -72,4 +72,15 @@ Estos son los pasos para ingresar y comenzar a usar Github.
    * [Referencias](https://help.github.com/articles/about-github-education-for-educators-and-researchers/)
 
 * Estos son algunos de los comandos más utilizados para la gestión de código en Github:
-   a. 
+
+   **a.** git clone
+   
+      Es utilizado para crear una copia local del repositorio de GitHub. Por ejemplo: git clone https://github.com/susannalles/MinimalEditions.git
+      
+      También se puede determinar si un repositorio se encuentra en un servidor remoto.
+
+   **b.** git init
+     
+      Se usa para crear un nuevo repositorio GIT al interno de la carpeta.
+      
+   **c.** git add
