@@ -136,3 +136,29 @@ Estos son los pasos para ingresar y comenzar a usar Github.
 ![paso1dg](https://user-images.githubusercontent.com/37346028/38176367-1b92e27e-35b3-11e8-99f8-728aae90853d.png)
 
 ![paso2dg](https://user-images.githubusercontent.com/37346028/38176379-329b7b16-35b3-11e8-9009-7a6b9458cf7a.png)
+
+* Este fue el proceso al instalar el cliente Smartgit y conectarlo al repositorio de github creado para este taller (No se instaló el cliente sourcetree ya que no está disponible para Linux).
+
+![paso1dcg](https://user-images.githubusercontent.com/37346028/38176827-d1905eaa-35bb-11e8-8758-a20329d72209.png)
+
+![paso2dcg](https://user-images.githubusercontent.com/37346028/38176831-e2b5826e-35bb-11e8-96b5-272c9d2899c6.png)
+
+![paso3dcg](https://user-images.githubusercontent.com/37346028/38176837-f44e0df2-35bb-11e8-825e-9688c3abc2fc.png)
+
+![paso4dcg](https://user-images.githubusercontent.com/37346028/38176844-076ee5d2-35bc-11e8-93d2-e3173a4ecbf3.png)
+
+![paso5dcg](https://user-images.githubusercontent.com/37346028/38176849-180cf5b4-35bc-11e8-88a2-5f486dd7c551.png)
+
+![paso6dcg](https://user-images.githubusercontent.com/37346028/38176855-276956b0-35bc-11e8-8090-84cc35f613a1.png)
+
+![paso7dcg](https://user-images.githubusercontent.com/37346028/38176858-3bb15b2c-35bc-11e8-8ce1-812b881f251f.png)
+
+![paso8dcg](https://user-images.githubusercontent.com/37346028/38176861-4a4259d4-35bc-11e8-8a8c-df8411b1ebf7.png)
+
+![paso9dcg](https://user-images.githubusercontent.com/37346028/38176866-5ba0d746-35bc-11e8-8915-f56e69ffd3ed.png)
+
+![paso10dcg](https://user-images.githubusercontent.com/37346028/38176954-12f4ca0a-35be-11e8-8180-c2c7cb76537f.png)
+
+![paso11dcg](https://user-images.githubusercontent.com/37346028/38176969-501cff10-35be-11e8-8aa5-45d806201a4e.png)
+
+![paso12dcg](https://user-images.githubusercontent.com/37346028/38176974-668bd028-35be-11e8-8f53-1eedf9df1ff3.png)
