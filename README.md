@@ -84,3 +84,15 @@ Estos son los pasos para ingresar y comenzar a usar Github.
       Se usa para crear un nuevo repositorio GIT al interno de la carpeta.
       
    **c.** git add
+   
+      Este comando se utiliza para agregar nuevos elementos o realizar cambios en el archivo. También para añadir archivos al index, por ejemplo, el comando git add temp.txt, agrega un nombre de archivo en el directorio local del index.
+      
+   **d.** git commit
+   
+      Identifica los cambios realizados en el repositorio local, además, es usado para incluir el archivo en la cabecera, implementando este comando: git commit -m "mi primer mensaje de cambios".
+      
+   **e.** git push
+   
+      Es utilizado para enviar los cambios hechos al repositorio remoto, aplicando este comando: git push origin [branch]. Branch es el nombre de la rama a la que se dirigen los cambios.
+      
+   **f.** git pull   
