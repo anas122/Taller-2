@@ -246,6 +246,6 @@ Este fue el proceso de obtención de un PROMO CODE, para extender los beneficios
 
 8. Algunas ventajas y beneficios que tiene Google Cloud para los estudiantes son: presenta una infraestructura preparada para el futuro, como los tipos de máquina personalizados, restauración de datos archivados en menos de un segundo, tiempos de inicio más rápidos, y muchas más; ofrece servicios de datos y analítica muy buenos, por ejemplo, inteligencia virtual, macrodatos sin esperar, ciencia de datos para el usuario común, entre otros; también ofrece tecnología sin servidores y precios asequibles para todos los clientes. Además, presenta muy buena seguridad y se empeña por realizar innovaciones en los centros de datos, como las máquinas virtuales, una red global de alta velocidad, soluciones optimizadas para la carga de trabajo y muchas más.
 
-Finalmente, presenta herramientas muy eficiente para que cada estudiante pueda realizar trabajos y compartirlos sin ningún problema, como lo son One Drive, Google Drive y Dropbox.
+   Finalmente, presenta herramientas muy eficiente para que cada estudiante pueda realizar trabajos y compartirlos sin ningún problema, como lo son One Drive, Google Drive y Dropbox.
 
-   * [Referencias](https://cloud.google.com/why-google/?hl=es-419)
+    * [Referencias](https://cloud.google.com/why-google/?hl=es-419)
