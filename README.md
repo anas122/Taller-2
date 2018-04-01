@@ -230,3 +230,15 @@ Estos son algunos productos que ofrece Jet Brains, los últimos son especialment
 ![paso9ci](https://user-images.githubusercontent.com/37346028/38177945-0541617e-35ce-11e8-8bbb-9ea72e487e2d.png)
 
 ![paso10ci](https://user-images.githubusercontent.com/37346028/38177949-1367048e-35ce-11e8-8ebf-7bbcc8c26e66.png)
+
+Este fue el proceso de obtención de un PROMO CODE, para extender los beneficios 6 meses más:
+
+![paso1pci](https://user-images.githubusercontent.com/37346028/38177998-df482c72-35ce-11e8-9340-366792ba7496.png)
+
+![paso2pci](https://user-images.githubusercontent.com/37346028/38178004-f4c21194-35ce-11e8-9fa5-261b34ee82eb.png)
+
+![paso3pci](https://user-images.githubusercontent.com/37346028/38178008-05fee518-35cf-11e8-8920-aefb1408b5f0.png)
+
+![paso4pci](https://user-images.githubusercontent.com/37346028/38178010-15283594-35cf-11e8-896f-9fd19ed5b2a5.png)
+
+![paso5pci](https://user-images.githubusercontent.com/37346028/38178012-2446f196-35cf-11e8-9b4f-bcbf1e6df2fe.png)
