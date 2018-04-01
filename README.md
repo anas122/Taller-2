@@ -68,5 +68,8 @@ Estos son los pasos para ingresar y comenzar a usar Github.
 
   Y así van cambiando los beneficios que brinda este servicio tan eficiente, y que puede ser usado en todo momento, disponible para cualquier persona.
 
-  [Referencias](https://www.genbetadev.com/trabajar-como-desarrollador/github-student-developer-pack-acceso-gratuito-a-herramientas-de-desarrollo)
-  [Referencias](https://help.github.com/articles/about-github-education-for-educators-and-researchers/)
+   * [Referencias](https://www.genbetadev.com/trabajar-como-desarrollador/github-student-developer-pack-acceso-gratuito-a-herramientas-de-desarrollo)
+   * [Referencias](https://help.github.com/articles/about-github-education-for-educators-and-researchers/)
+
+* Estos son algunos de los comandos más utilizados para la gestión de código en Github:
+   a. 
