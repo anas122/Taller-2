@@ -200,4 +200,10 @@ Estos son algunos productos que ofrece Jet Brains, los últimos son especialment
 
 ![pj2](https://user-images.githubusercontent.com/37346028/38177403-8a7adc38-35c6-11e8-8a35-f46358c83019.png)
 
-   * [Referencias](https://www.jetbrains.com/)
+    * [Referencias](https://www.jetbrains.com/)
+
+
+5. No presento disponibilidad de tarjeta de crédito, por lo tanto, no pude realizar el ejercicio.
+
+
+6. No presento disponibilidad de tarjeta de crédito, por lo tanto, no pude realizar el ejercicio.
