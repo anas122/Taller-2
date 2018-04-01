@@ -64,6 +64,9 @@ Estos son los pasos para ingresar y comenzar a usar Github.
 
 * Algunos beneficios que tiene este programa es que facilita el uso de muy buenas herramientas de desarrollo para el aprendizaje, sin ningún costo, que sin este servicio tendrían un alto valor. También permite realizar proyectos de forma colaborativa, navegar en la nube sin impedimientos, tener y desarrollar nuestros propios códigos, explotar la imaginación.
 
-Además, dependiendo de la persona y el uso que se le de trae diferentes ventajas, por ejemplo, si es usado por docentes, puede implementarlo en el salón de clases para compartir el código con todos los estudiantes rápidamente, ingresar a una comunidad para discutir sobre diferentes temas con personas en cualquier parte del mundo, obtener nuevas herramientas y materiales para enseñar.
+  Además, dependiendo de la persona y el uso que se le de trae diferentes ventajas, por ejemplo, si es usado por docentes, puede implementarlo en el salón de clases para compartir el código con todos los estudiantes rápidamente, ingresar a una comunidad para discutir sobre diferentes temas con personas en cualquier parte del mundo, obtener nuevas herramientas y materiales para enseñar.
 
-Y así van cambiando los beneficios que brinda este servicio tan eficiente, y que puede ser usado en todo momento, disponible para cualquier persona.
+  Y así van cambiando los beneficios que brinda este servicio tan eficiente, y que puede ser usado en todo momento, disponible para cualquier persona.
+
+  [Referencias](https://www.genbetadev.com/trabajar-como-desarrollador/github-student-developer-pack-acceso-gratuito-a-herramientas-de-desarrollo)
+  [Referencias](https://help.github.com/articles/about-github-education-for-educators-and-researchers/)
