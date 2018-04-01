@@ -114,3 +114,11 @@ Estos son los pasos para ingresar y comenzar a usar Github.
    * [Referencias](https://github.com/susannalles/MinimalEditions/wiki/Lista-Comandos-Git)
    * [Referencias](https://www.hostinger.es/tutoriales/comandos-de-git)
    * [Referencias](http://rogerdudler.github.io/git-guide/index.es.html)
+
+* Este fue el proceso al crear un nuevo repositorio para gestionar los datos del proyecto:
+
+![paso1nrp](https://user-images.githubusercontent.com/37346028/38176120-e7bfe338-35ae-11e8-8727-cbe8b7c910fc.png)
+
+![paso2nrp](https://user-images.githubusercontent.com/37346028/38176126-fd04ea4a-35ae-11e8-948f-685f4dd30047.png)
+
+![paso3nrp](https://user-images.githubusercontent.com/37346028/38176131-0d92c99a-35af-11e8-8f9b-4f518af9cb6f.png)
