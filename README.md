@@ -251,3 +251,15 @@ Este fue el proceso de obtención de un PROMO CODE, para extender los beneficios
     * [Referencias](https://cloud.google.com/why-google/?hl=es-419)
 
 Se requiere tarjeta de crédito para acceder a una cuenta en Google Cloud y hacer uso de algún beneficio. Yo no presento disponibilidad de esta tarjeta, por lo tanto, no pude realizar esta actividad.
+
+
+9. Muchos proveedores de tecnología de talla mundial ofrecen distintos beneficios de software y hardware para estudiantes, por ejemplo:
+
+   * Oracle ofrece cursos, talleres, herramientas electrónicas, licencias de software, entre otras.
+   * [Referencias](https://academy.oracle.com/es/membership-benefits.html)
+   * [Referencias](https://academy.oracle.com/es/oa-student.html)
+   
+   * RedHat ofrece herramientas, examenes, cursos, descuentos, acceso a diferentes plataformas...
+   * [Referencias](https://www.redhat.com/es/services/training/red-hat-academy)
+   
+   Entre otros proveedores que ofrecen muchos más recursos, especialmente para estudiantes.
