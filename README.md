@@ -243,6 +243,32 @@ Este fue el proceso de obtención de un PROMO CODE, para extender los beneficios
 
 ![paso5pci](https://user-images.githubusercontent.com/37346028/38178012-2446f196-35cf-11e8-9b4f-bcbf1e6df2fe.png)
 
+Este fue el proceso de creación de una máquina virtual:
+
+![paso1mv](https://user-images.githubusercontent.com/37346028/38179178-a69c5102-35e5-11e8-819c-280b28063605.png)
+
+![paso2mv](https://user-images.githubusercontent.com/37346028/38179195-f3b46c18-35e5-11e8-872e-1b9ff6a0af44.png)
+
+![paso3mv](https://user-images.githubusercontent.com/37346028/38179203-0c5d3d3a-35e6-11e8-9e1d-eddc87d2e2a9.png)
+
+![paso4mv](https://user-images.githubusercontent.com/37346028/38179212-21a57bee-35e6-11e8-9b8b-0b46acd00922.png)
+
+![paso5mv](https://user-images.githubusercontent.com/37346028/38179220-34688b86-35e6-11e8-81ec-101688455f14.png)
+
+![paso6mv](https://user-images.githubusercontent.com/37346028/38179224-4687e9ba-35e6-11e8-9ffc-d560a261e380.png)
+
+![paso7mv](https://user-images.githubusercontent.com/37346028/38179231-58ca42f8-35e6-11e8-8071-d3110cf67df9.png)
+
+![paso8mv](https://user-images.githubusercontent.com/37346028/38179237-6a4d9fb6-35e6-11e8-8b6a-cbd4d495a1e3.png)
+
+![paso9mv](https://user-images.githubusercontent.com/37346028/38179242-7b5c3a9c-35e6-11e8-9550-99f99be5fd62.png)
+
+![paso10mv](https://user-images.githubusercontent.com/37346028/38179249-8a7334a4-35e6-11e8-9200-121fb2d181fa.png)
+
+![paso11mv](https://user-images.githubusercontent.com/37346028/38179308-4d46d8fa-35e7-11e8-8294-655b2356a619.png)
+
+![paso12mv](https://user-images.githubusercontent.com/37346028/38179313-5dac3a96-35e7-11e8-9a1f-d2b70e21c2af.png)
+
 
 8. Algunas ventajas y beneficios que tiene Google Cloud para los estudiantes son: presenta una infraestructura preparada para el futuro, como los tipos de máquina personalizados, restauración de datos archivados en menos de un segundo, tiempos de inicio más rápidos, y muchas más; ofrece servicios de datos y analítica muy buenos, por ejemplo, inteligencia virtual, macrodatos sin esperar, ciencia de datos para el usuario común, entre otros; también ofrece tecnología sin servidores y precios asequibles para todos los clientes. Además, presenta muy buena seguridad y se empeña por realizar innovaciones en los centros de datos, como las máquinas virtuales, una red global de alta velocidad, soluciones optimizadas para la carga de trabajo y muchas más.
 
